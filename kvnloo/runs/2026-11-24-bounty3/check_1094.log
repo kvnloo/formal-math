@@ -1,0 +1,17 @@
+  sorry
+exit=0
+/Users/kvn/workspace/wt/physics-agent-fc-view/.lake/pa-work/n74-check-1094/Check1094.lean:328:8: warning: declaration uses `sorry` 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, Classical.choice, Quot.sound] 
+' depends on axioms: [propext, sorryAx, Classical.choice, Quot.sound] real 3.92 user 2.72 sys 1.95 
+sorryAx_mentions=1

@@ -1,0 +1,17 @@
+{
+ "name": "bounty3",
+ "schema": "physics-agent.split.v1",
+ "fc_commit": "ee50fcbc624951ed31e6e70ba1d2b76c9dd26d4d",
+ "n": 3,
+ "data_manifest_sha256": "n74-bounty3-adhoc",
+ "note": "N74: three Conjectures.io bounty tasks (fc-v2-erdos1094-erdos-1094, fc-v2-erdos1137-erdos-1137, fc-v2-erdos1142-erdos-1142; task list fetched 2026-11-24T03:11Z) mapped onto formal-conjectures ee50fcb.",
+ "skipped_not_sorry_or_missing": [],
+ "problems": [
+  {"id": "FormalConjectures/ErdosProblems/1094.lean::erdos_1094", "file": "FormalConjectures/ErdosProblems/1094.lean",
+   "theorem": "erdos_1094", "full": "Erdos1094.erdos_1094", "category": "research open", "sorry": true, "external_proof": false},
+  {"id": "FormalConjectures/ErdosProblems/1137.lean::erdos_1137", "file": "FormalConjectures/ErdosProblems/1137.lean",
+   "theorem": "erdos_1137", "full": "Erdos1137.erdos_1137", "category": "research open", "sorry": true, "external_proof": false},
+  {"id": "FormalConjectures/ErdosProblems/1142.lean::erdos_1142", "file": "FormalConjectures/ErdosProblems/1142.lean",
+   "theorem": "erdos_1142", "full": "Erdos1142.erdos_1142", "category": "research open", "sorry": true, "external_proof": false}
+ ]
+}
